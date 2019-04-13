@@ -1,1 +1,1 @@
-# Android-Architecture-template
+# Android-Architecture-Templates
